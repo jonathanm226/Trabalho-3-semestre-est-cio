@@ -212,5 +212,18 @@ footer{
     .banner h2{
         font-size:2rem;
     }
+/* Busca de Imóveis */
+.search-box {
+    max-width: 600px;
+    margin: 0 auto 40px auto;
+}
 
+.search-box input {
+    width: 100%;
+    padding: 15px;
+    font-size: 1rem;
+    border: 2px solid #00c896;
+    border-radius: 8px;
+    outline: none;
+}
 }
